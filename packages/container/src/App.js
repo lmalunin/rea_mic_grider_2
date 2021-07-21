@@ -1,4 +1,7 @@
 import React from 'react';
+import { mount } from 'marketing/marketingApp';
+
+console.log( mount );
 
 export default () => {
     return (
